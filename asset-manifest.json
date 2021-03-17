@@ -1,0 +1,29 @@
+{
+  "files": {
+    "main.css": "/dorjei-web/static/css/main.60dbfb89.chunk.css",
+    "main.js": "/dorjei-web/static/js/main.303648c2.chunk.js",
+    "main.js.map": "/dorjei-web/static/js/main.303648c2.chunk.js.map",
+    "runtime-main.js": "/dorjei-web/static/js/runtime-main.67dbc01d.js",
+    "runtime-main.js.map": "/dorjei-web/static/js/runtime-main.67dbc01d.js.map",
+    "static/js/2.89058ac0.chunk.js": "/dorjei-web/static/js/2.89058ac0.chunk.js",
+    "static/js/2.89058ac0.chunk.js.map": "/dorjei-web/static/js/2.89058ac0.chunk.js.map",
+    "static/js/3.2385e98e.chunk.js": "/dorjei-web/static/js/3.2385e98e.chunk.js",
+    "static/js/3.2385e98e.chunk.js.map": "/dorjei-web/static/js/3.2385e98e.chunk.js.map",
+    "index.html": "/dorjei-web/index.html",
+    "static/css/main.60dbfb89.chunk.css.map": "/dorjei-web/static/css/main.60dbfb89.chunk.css.map",
+    "static/js/2.89058ac0.chunk.js.LICENSE.txt": "/dorjei-web/static/js/2.89058ac0.chunk.js.LICENSE.txt",
+    "static/media/1.c5e20f4c.jpg": "/dorjei-web/static/media/1.c5e20f4c.jpg",
+    "static/media/2.eb4b4da9.jpg": "/dorjei-web/static/media/2.eb4b4da9.jpg",
+    "static/media/3.bcb94761.jpg": "/dorjei-web/static/media/3.bcb94761.jpg",
+    "static/media/4.9dbf92d3.jpg": "/dorjei-web/static/media/4.9dbf92d3.jpg",
+    "static/media/5.09103c22.jpg": "/dorjei-web/static/media/5.09103c22.jpg",
+    "static/media/6.f570b9ae.jpg": "/dorjei-web/static/media/6.f570b9ae.jpg",
+    "static/media/logo.d789c60f.png": "/dorjei-web/static/media/logo.d789c60f.png"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.67dbc01d.js",
+    "static/js/2.89058ac0.chunk.js",
+    "static/css/main.60dbfb89.chunk.css",
+    "static/js/main.303648c2.chunk.js"
+  ]
+}
