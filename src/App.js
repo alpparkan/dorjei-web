@@ -121,13 +121,27 @@ function App() {
         </div>
         
         <div className="container-polaroid-2-right">
-          <div className="container-polaroid">
-            <Draggable nodeRef={nodeRef}>
-              <div className="polaroid-20p">
-                <img ref={nodeRef} src={right1} draggable="false"/>
+          <div>
+            <div className="container-polaroid">
+              <Draggable nodeRef={nodeRef}>
+                <div className="polaroid-20p">
+                  <img ref={nodeRef} src={right1} draggable="false"/>
+                </div>
+              </Draggable>
+            </div>
+            <div style={{marginTop: 300, textAlign: 'initial'}}>
+              <div>
+                <Draggable nodeRef={nodeRef}>
+                  <div className="polaroid-85p">
+                    <img ref={nodeRef} src={right5} draggable="false"/>
+                  </div>
+                </Draggable>
               </div>
-            </Draggable>
+              <div className="black-dot-2"></div>
+            </div>
+            
           </div>
+          
           <div className="container-polaroid">
             <Draggable nodeRef={nodeRef}>
               <div className="polaroid-20p">
@@ -156,9 +170,6 @@ function App() {
 
         </div>
       </div>
-
-      
-        
         
     </div>
   );
