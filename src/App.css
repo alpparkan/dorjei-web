@@ -24,36 +24,19 @@
   color: white;
 }
 
-.App-link {
-  color: #61dafb;
-}
-
-@keyframes App-logo-spin {
-  from {
-    transform: rotate(0deg);
-  }
-  to {
-    transform: rotate(360deg);
-  }
-}
 
 .text-draggable {
   opacity: 0.5;
 }
 
-
-
-
-
-
-
-.header-logo {
-/*   background-color: red;
- */  margin-top: 30px;
+.header {
+  margin-top: 30px;
   margin-left: 40px;
-  width: fit-content;
+  margin-right: 40px;
   position: relative;
   z-index: 100;
+  display: flex;
+  justify-content: space-between;
 }
 
 .logo {
@@ -61,27 +44,109 @@
   pointer-events: none;
 }
 
+
+
 .polaroid-20p img {
   width: 60%;
   height: auto;
   cursor: move;
 }
 
-.container-polaroid {
+.polaroid-50p img {
+  width: 50%;
+  height: auto;
+  cursor: move;
+}
+
+.polaroid-70p img {
+  width: 70%;
+  height: auto;
+  cursor: move;
+}
+
+.container-polaroid-1 {
 /*   background-color: red;
  */  display: flex;
   justify-content: space-between;
-  padding-top: 170px;
+  text-align: center;
+}
+
+.container-polaroid {
+  margin-top: 170px;
+}
+
+.container-polaroid-230 {
+  margin-top: 230px;
+  text-align: center;
+}
+
+.container-polaroid-550p {
+  margin-top: 450px;
+}
+
+.line1 {
+  height: 6vw;
+  width: 2vw;
+  background-color: black;
+  margin-top: 130px;
+  position: relative;
+  z-index: 100;
+}
+
+.two-dots {
+  display: flex;
+  margin-top: 10px;
+  position: relative;
+  z-index: 100;
+  justify-content: center;
 }
 
 .black-dot {
   border-radius: 50%;
-  width: 40px;
-  height: 40px;
+  width: 1.5vw;
+  height: 1.5vw;
   background-color: black;
-  float: right;
-  margin-top: 10px;
-  margin-right: 20px;
+  margin-left: 5px;
+  margin-right: 5px;
+}
+
+.container-polaroid-2 {
+  display: flex;
+}
+
+.container-polaroid-2-left {
+/*   background-color: chocolate;
+ */  flex: 4;
+  display: flex;
+  padding-left: 60px;
+}
+
+.left-couple {
+/*   background-color: red;
+ */  display: flex;
+  flex-direction: column;
+}
+
+.left-single {
+/*   background-color: seagreen;
+ */  display: flex;
+  flex-direction: column;
+}
+
+.container-polaroid-2-right {
+/*   background-color: cornflowerblue;
+ */  flex: 5;
+  display: flex;
+  justify-content: space-between;
+  padding-right: 60px;
+  text-align: center;
+}
+
+.line2 {
+  height: 0.8vw;
+  width: 6vw;
+  background-color: black;
+  margin-top: 20px;
   position: relative;
   z-index: 100;
 }
