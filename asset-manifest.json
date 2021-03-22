@@ -1,17 +1,17 @@
 {
   "files": {
-    "main.css": "/dorjei-web/static/css/main.f0a31f34.chunk.css",
-    "main.js": "/dorjei-web/static/js/main.2abade70.chunk.js",
-    "main.js.map": "/dorjei-web/static/js/main.2abade70.chunk.js.map",
-    "runtime-main.js": "/dorjei-web/static/js/runtime-main.67dbc01d.js",
-    "runtime-main.js.map": "/dorjei-web/static/js/runtime-main.67dbc01d.js.map",
-    "static/js/2.86d932cd.chunk.js": "/dorjei-web/static/js/2.86d932cd.chunk.js",
-    "static/js/2.86d932cd.chunk.js.map": "/dorjei-web/static/js/2.86d932cd.chunk.js.map",
-    "static/js/3.2385e98e.chunk.js": "/dorjei-web/static/js/3.2385e98e.chunk.js",
-    "static/js/3.2385e98e.chunk.js.map": "/dorjei-web/static/js/3.2385e98e.chunk.js.map",
+    "main.css": "/dorjei-web/static/css/main.60cfc2c9.chunk.css",
+    "main.js": "/dorjei-web/static/js/main.eef4858b.chunk.js",
+    "main.js.map": "/dorjei-web/static/js/main.eef4858b.chunk.js.map",
+    "runtime-main.js": "/dorjei-web/static/js/runtime-main.e6c006fa.js",
+    "runtime-main.js.map": "/dorjei-web/static/js/runtime-main.e6c006fa.js.map",
+    "static/js/2.97844a6f.chunk.js": "/dorjei-web/static/js/2.97844a6f.chunk.js",
+    "static/js/2.97844a6f.chunk.js.map": "/dorjei-web/static/js/2.97844a6f.chunk.js.map",
+    "static/js/3.28a325f2.chunk.js": "/dorjei-web/static/js/3.28a325f2.chunk.js",
+    "static/js/3.28a325f2.chunk.js.map": "/dorjei-web/static/js/3.28a325f2.chunk.js.map",
     "index.html": "/dorjei-web/index.html",
-    "static/css/main.f0a31f34.chunk.css.map": "/dorjei-web/static/css/main.f0a31f34.chunk.css.map",
-    "static/js/2.86d932cd.chunk.js.LICENSE.txt": "/dorjei-web/static/js/2.86d932cd.chunk.js.LICENSE.txt",
+    "static/css/main.60cfc2c9.chunk.css.map": "/dorjei-web/static/css/main.60cfc2c9.chunk.css.map",
+    "static/js/2.97844a6f.chunk.js.LICENSE.txt": "/dorjei-web/static/js/2.97844a6f.chunk.js.LICENSE.txt",
     "static/media/1.c5e20f4c.jpg": "/dorjei-web/static/media/1.c5e20f4c.jpg",
     "static/media/2.eb4b4da9.jpg": "/dorjei-web/static/media/2.eb4b4da9.jpg",
     "static/media/3.5689a3db.jpg": "/dorjei-web/static/media/3.5689a3db.jpg",
@@ -23,6 +23,10 @@
     "static/media/left3.5ddfaafe.jpg": "/dorjei-web/static/media/left3.5ddfaafe.jpg",
     "static/media/logo.d789c60f.png": "/dorjei-web/static/media/logo.d789c60f.png",
     "static/media/menu-logo.4d1cea93.png": "/dorjei-web/static/media/menu-logo.4d1cea93.png",
+    "static/media/modal1.79643b0d.jpeg": "/dorjei-web/static/media/modal1.79643b0d.jpeg",
+    "static/media/modal2.97e0392b.jpeg": "/dorjei-web/static/media/modal2.97e0392b.jpeg",
+    "static/media/modal3.dc14ad5b.jpeg": "/dorjei-web/static/media/modal3.dc14ad5b.jpeg",
+    "static/media/modal4.f6d2c5b8.jpeg": "/dorjei-web/static/media/modal4.f6d2c5b8.jpeg",
     "static/media/right1.424d3fa8.jpg": "/dorjei-web/static/media/right1.424d3fa8.jpg",
     "static/media/right2.82f746d8.jpg": "/dorjei-web/static/media/right2.82f746d8.jpg",
     "static/media/right3.28269bef.jpg": "/dorjei-web/static/media/right3.28269bef.jpg",
@@ -30,9 +34,9 @@
     "static/media/right5.26b074ff.jpg": "/dorjei-web/static/media/right5.26b074ff.jpg"
   },
   "entrypoints": [
-    "static/js/runtime-main.67dbc01d.js",
-    "static/js/2.86d932cd.chunk.js",
-    "static/css/main.f0a31f34.chunk.css",
-    "static/js/main.2abade70.chunk.js"
+    "static/js/runtime-main.e6c006fa.js",
+    "static/js/2.97844a6f.chunk.js",
+    "static/css/main.60cfc2c9.chunk.css",
+    "static/js/main.eef4858b.chunk.js"
   ]
 }
