@@ -71,8 +71,7 @@
 }
 
 .container-polaroid-1 {
-/*   background-color: red;
- */  display: flex;
+  display: flex;
   justify-content: space-between;
   text-align: center;
 }
@@ -96,15 +95,16 @@
   background-color: black;
   margin-top: 130px;
   position: relative;
-  z-index: 100;
+  z-index: 90;
 }
 
 .two-dots {
   display: flex;
   margin-top: 10px;
   position: relative;
-  z-index: 100;
-  justify-content: center;
+  z-index: 90;
+  justify-content: flex-end;
+  padding-right: 20%;
 }
 
 .black-dot {
@@ -113,18 +113,17 @@
   height: 1.5vw;
   background-color: black;
   margin-left: 5px;
-  margin-right: 5px;
 }
 
 .black-dot-2 {
   border-radius: 50%;
-  width: 1.5vw;
+  min-width: 1.5vw;
   height: 1.5vw;
   background-color: black;
   position: relative;
-  z-index: 100;
-  margin-bottom: 20px;
-}
+  z-index: 90;
+/*   margin-bottom: 20px;
+ */}
 
 .container-polaroid-2 {
   display: flex;
@@ -155,8 +154,8 @@
   display: flex;
   justify-content: space-between;
   padding-right: 60px;
-  text-align: center;
-}
+/*   text-align: center;
+ */}
 
 .line2 {
   height: 0.8vw;
@@ -164,5 +163,20 @@
   background-color: black;
   margin-top: 20px;
   position: relative;
-  z-index: 100;
+  z-index: 90;
+}
+
+.polaroid-modal {
+  text-align: center;
+}
+
+.polaroid-modal img {
+  width: 80%;
+  height: auto;
+}
+
+.polaroid-2dots div img {
+  width: 60%;
+  height: auto;
+  cursor: move;
 }
